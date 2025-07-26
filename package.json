@@ -1,6 +1,6 @@
 {
-  "name": "nano-jsx",
-  "version": "0.1.0",
+  "name": "@lanten233/nano-jsx",
+  "version": "0.0.1",
   "description": "SSR first, lightweight 1kB JSX library.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
